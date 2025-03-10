@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "description": "Buy groceries",
+        "status": "todo",
+        "createdAt": "2025-03-10T22:15:30.0157336+05:30",
+        "updatedAt": "2025-03-10T22:15:30.0157336+05:30"
+    },
+    {
+        "id": 2,
+        "description": "ReAD COMIC",
+        "status": "in-progress",
+        "createdAt": "2025-03-10T22:16:03.931408+05:30",
+        "updatedAt": "2025-03-10T22:16:54.0506317+05:30"
+    }
+]
